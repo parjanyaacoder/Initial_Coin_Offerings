@@ -1,0 +1,23 @@
+{
+  "name": "initial_coin_offerings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parjanyaacoder/Initial_Coin_Offerings.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parjanyaacoder/Initial_Coin_Offerings/issues"
+  },
+  "homepage": "https://github.com/parjanyaacoder/Initial_Coin_Offerings#readme",
+  "devDependencies": {
+    "hardhat": "^2.10.2"
+  }
+}
