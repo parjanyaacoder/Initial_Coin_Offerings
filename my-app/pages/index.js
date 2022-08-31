@@ -107,7 +107,7 @@ export default function Home() {
 
   const claimCryptoDevTokens = async () => {
     try {
-      const signer = await getProviderOrSigner();
+      const signer = await getProviderOrSigner(true);
       const tokenContract = new Contract(
         TOKEN_CONTRACT_ADDRESS,
         TOKEN_CONTRACT_ABI,
